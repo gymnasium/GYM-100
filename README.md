@@ -1,4 +1,5 @@
-[![Gymnasium Logo](https://cdn.rawgit.com/gymnasium/gymnasium.github.io/master/assets/GYM-logo.svg)](http://thegymnasium.com)
+
+[![Gymnasium Logo](https://gymnasium.github.io/cms/img/gymnasium-logo-gray.svg)](http://thegymnasium.com)
 
 # CODING FOR DESIGNERS
 
@@ -6,30 +7,35 @@
 
 Learn HTML and CSS and become the Web Designer that Developers love. Professional design experience is a prerequisite, but no prior web or coding experience is necessary.
 
-**SKILLS COVERED**
+**Taught by Jim Webb, Web Developer**
+
+### SKILLS COVERED
+
 - HTML basics
 - CSS basics
 - Bootstrap basics
 - And more...
 
-**THIS COURSE IS FOR**
+### THIS COURSE IS FOR
+
 - Designers
 - Creatives
 - Copy Editors
 - Anyone struggling with HTML
 
+### [ENROLL NOW!](https://thegymnasium.com/courses/GYM/100/0/about)
 
-### [ENROLL NOW!](http://thegymnasium.com/courses/GYM/100/0/about)
+
+### Preview
+[![Poster frame for course preview video](http://img.youtube.com/vi/1x1rw5MlI3k/0.jpg)](http://www.youtube.com/watch?v=1x1rw5MlI3k "Course Preview")
 
 ---
 
 ## About Gymnasium
 
-
 ### Real World Skills
 
 Gymnasium offers free online courses designed to teach creative professionals in-demand skills. We know these skills are in demand because our clients tell us what they are looking for, but can't find.
-
 
 ### Expert Instruction
 
