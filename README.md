@@ -1,4 +1,3 @@
-
 [![Gymnasium Logo](https://gymnasium.github.io/cms/img/gymnasium-logo-gray.svg)](http://thegymnasium.com)
 
 # CODING FOR DESIGNERS
